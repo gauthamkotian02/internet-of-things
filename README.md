@@ -13,4 +13,4 @@ https://wokwi.com/projects/333797416535851602
 8.https://wokwi.com/projects/334347782067323474
 9.button led:https://wokwi.com/projects/334431013706924626
 10.led fade:https://wokwi.com/projects/334431225002328659
-11.MOtion Sensor:https://wokwi.com/projects/new/arduino-uno
+11.MOtion Sensor:https://wokwi.com/projects/334431854492910163
