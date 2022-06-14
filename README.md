@@ -8,7 +8,7 @@ https://wokwi.com/projects/333797416535851602
 3.https://wokwi.com/projects/333801274561528403
 4.https://wokwi.com/projects/33380617330727381
 5.ultrasonic:https://wokwi.com/projects/334345224284275284
-6.https://wokwi.com/projects/334346231606149714
+6.temperature;https://wokwi.com/projects/334346231606149714
 7.PIR:https://wokwi.com/projects/334347041012449875
 8.https://wokwi.com/projects/334347782067323474
 9.button led:https://wokwi.com/projects/334431013706924626
