@@ -17,5 +17,6 @@
 14)servo motor controlled by potentiometer:https://wokwi.com/projects/334977104366010964<br>
 15)servo motor :https://wokwi.com/projects/334976377748980307<br>
 16)servo motor with button:https://wokwi.com/projects/334977486870807124<br>
+17)servo motor with ultrasonic sensor:https://wokwi.com/projects/334981639074480722<br>
 
 
