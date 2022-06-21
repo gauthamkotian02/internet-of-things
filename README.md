@@ -19,6 +19,7 @@
 16)servo motor with button:https://wokwi.com/projects/334977486870807124<br>
 17)servo motor with ultrasonic sensor:https://wokwi.com/projects/334981639074480722<br>
 18)buzzer using button:https://wokwi.com/projects/335071789621183058<br>
+19)buzzer with beep:https://wokwi.com/projects/335066692974543442<br>
 
 
 
