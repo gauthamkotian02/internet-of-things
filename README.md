@@ -21,6 +21,7 @@
 18)buzzer using button:https://wokwi.com/projects/335071789621183058<br>
 19)buzzer with beep:https://wokwi.com/projects/335066692974543442<br>
 20).Buzzer with ultrasonic sensor:https://wokwi.com/projects/335609324460048978<br>
+21)ultrasonic sensor with buzzer and LED at 20cm:https://wokwi.com/projects/335611089367597652<br> 
 
 
 
